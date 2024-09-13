@@ -7,8 +7,8 @@ Welcome to **Mokshitha Medicals**, a website for our pharmacy and medical supply
 This website is designed to provide users with information about our pharmacy services and the medical supplies we offer. It includes the following sections:
 
 - **Pharmacy**: Information about the medications and services available at our pharmacy.
-- **Medical Supplies**: Details about the medical supplies and equipment we provide.
-- **Contact**: Ways to reach out to us for more information or inquiries.
+- **Medical Supplies**: All types of Medicines.
+- **Contact**: 8880009808, 8885160607.
 
 ## Live Website
 
@@ -34,7 +34,7 @@ You can view the live website here:
 ## Contact
 
 For any inquiries, feel free to reach out via email:
-- **Email**: info@mokshithamedicals.com
+- **Email**: info@mokshitamedicals@gmail.com.com
 
 ---
 
